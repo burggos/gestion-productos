@@ -35,7 +35,7 @@ gestionar productos mediante las operaciones CRUD (Crear, Leer, Actualizar, Elim
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/gestion-productos.git
+git clone https://github.com/burggos/gestion-productos.git
 cd gestion-productos
 ````
 
